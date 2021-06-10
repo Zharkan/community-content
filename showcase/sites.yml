@@ -807,3 +807,13 @@
     - Bootstrap
   made_by: Tobias Thiele
   made_by_url: https://tobias-thiele.de/
+  - title: Café Hamlet - Café Restaurant Rouen - Aître Saint Maclou by Gilles Tournadre
+  url: https://www.cafe-hamlet.fr
+  description: Le site du Café Hamlet, situé dans le centre ville de Rouen
+  categories:
+    - Restaurant website
+  frontend:
+    - React.js
+    - MaterialUI, Bootstrap
+  made_by: Gaylord Julien
+  made_by_url: https://www.emael76.fr
